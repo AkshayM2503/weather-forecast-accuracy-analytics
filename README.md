@@ -1,5 +1,21 @@
 # Weather Forecast Accuracy Analytics
 
+<p align="center">
+  <strong>An End-to-End Weather Forecast Verification & Analytics Platform</strong>
+  <br/>
+  Measuring forecast reliability across 10 Indian cities using Python, PostgreSQL and Power BI.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-Analytics-4479A1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Completed-success" />
+</p>
+
+---
+
 **An end-to-end weather forecast verification and analytics platform built with Python, PostgreSQL, and Power BI.**
 
 Evaluate how accurately weather forecasts predict future temperatures across 10 major Indian cities. The project collects hourly forecast snapshots, matches them against historical weather observations, calculates forecast error metrics, and presents performance insights through an interactive Power BI dashboard.
@@ -103,12 +119,27 @@ PostgreSQL stores the collected data and verification results.
 
 ## Power BI Dashboard
 
-The Power BI report is organised into four analytical pages.
+## Dashboard Preview
 
-1. **Weather Forecast Accuracy:** Overall forecast performance and key accuracy indicators.
-2. **Forecast Accuracy Analysis:** Error comparisons across cities and forecast lead times.
-3. **Forecast Monitoring & Data Quality:** Ingestion monitoring, verification coverage, and data availability.
-4. **City-Wise Data Quality:** City-level verification and observation coverage.
+The interactive Power BI report consists of four analytical pages covering forecast accuracy, performance trends, pipeline monitoring, and city-level data quality.
+
+### 1. Weather Forecast Accuracy
+
+![Weather Forecast Accuracy](Screenshots/Page_1.PNG)
+
+### 2. Forecast Accuracy Analysis
+
+![Forecast Accuracy Analysis](Screenshots/Page_2.PNG)
+
+### 3. Forecast Monitoring & Data Quality
+
+![Forecast Monitoring and Data Quality](Screenshots/Page_3.PNG)
+
+### 4. City-Wise Data Quality
+
+![City-Wise Data Quality](Screenshots/Page_4.PNG)
+
+The complete Power BI report is available in [`Power BI/Weather_analytics.pbix`](Power%20BI/Weather_analytics.pbix).
 
 ## Project Structure
 
