@@ -14,11 +14,29 @@
   <img src="https://img.shields.io/badge/Status-Completed-success" />
 </p>
 
----
 
 **An end-to-end weather forecast verification and analytics platform built with Python, PostgreSQL, and Power BI.**
 
 Evaluate how accurately weather forecasts predict future temperatures across 10 major Indian cities. The project collects hourly forecast snapshots, matches them against historical weather observations, calculates forecast error metrics, and presents performance insights through an interactive Power BI dashboard.
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Project Architecture](#project-architecture)
+- [Technology Stack](#technology-stack)
+- [Cities Covered](#cities-covered)
+- [Forecast Accuracy Metrics](#forecast-accuracy-metrics)
+- [Database Design](#database-design)
+- [Dashboard Preview](#dashboard-preview)
+- [Project Structure](#project-structure)
+- [Setup and Installation](#setup-and-installation)
+- [Running the Pipeline](#running-the-pipeline)
+- [Automation](#automation)
+- [Data Interpretation and Limitations](#data-interpretation-and-limitations)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
+
 
 ## Project Overview
 
