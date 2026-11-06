@@ -141,6 +141,14 @@ The interactive Power BI report consists of four analytical pages covering forec
 
 The complete Power BI report is available in [`Power BI/Weather_analytics.pbix`](Power%20BI/Weather_analytics.pbix).
 
+## System Architecture
+
+The following diagram illustrates the end-to-end data flow, from weather data collection to forecast accuracy analysis and visualisation.
+
+<p align="center">
+  <img src="Screenshots/Weather%20Forecast%20Data%20Pipeline%20Architecture.png" alt="Weather Forecast Analytics System Architecture" width="850"/>
+</p>
+
 ## Project Structure
 
 ```text
